@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Lucvk\MailersendLaravelDriverPlus\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class MailersendLaravelDriverPlusCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'mailersend-laravel-driver-plus';
 
     public $description = 'My command';
 
