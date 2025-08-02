@@ -2,9 +2,9 @@
 
 namespace Lucvk\MailersendLaravelDriverPlus;
 
+use Lucvk\MailersendLaravelDriverPlus\Commands\MailersendLaravelDriverPlusCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Lucvk\MailersendLaravelDriverPlus\Commands\MailersendLaravelDriverPlusCommand;
 
 class MailersendLaravelDriverPlusServiceProvider extends PackageServiceProvider
 {

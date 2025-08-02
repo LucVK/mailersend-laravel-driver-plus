@@ -3,8 +3,8 @@
 namespace Lucvk\MailersendLaravelDriverPlus\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Lucvk\MailersendLaravelDriverPlus\MailersendLaravelDriverPlusServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
